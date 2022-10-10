@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
      * it is a widget for selecting the time of day, in either 24-hour or AM/PM mode
      * @param view
      */
-    // Done with the help of YouTube content creator Code With Cal
+    // Done  with the help of YouTube content creator Code With Cal
     public void popTimePicker(View view) {
 
         TimePickerDialog.OnTimeSetListener onTimeSetListener = new TimePickerDialog.OnTimeSetListener() {
